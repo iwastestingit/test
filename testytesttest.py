@@ -1,1 +1,1 @@
-print("im into kaka again fuck all yall hahahhaha")
+print("yummy yummy good for the tummy i love my cookies")
