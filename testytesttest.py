@@ -1,1 +1,1 @@
-print("nvm kaka im a changed man")
+print("im into kaka again fuck all yall hahahhaha")
