@@ -1,1 +1,1 @@
-print("im into kaka again fuck all yall hahahhaha")
+print("guys im a lonely kaka guy")
